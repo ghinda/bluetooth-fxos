@@ -1,0 +1,21 @@
+{
+  "version": "0.0.1",
+  "name": "bluetooth",
+  "type": "certified",
+  "description": "",
+  "launch_path": "/index.html",
+  "icons": {
+  },
+  "installs_allowed_from": ["*"],
+  "locales": {
+  },
+  "default_locale": "en",
+  "permissions":{
+    "bluetooth": {
+      "description": ""
+    }
+  },
+  "messages": [
+    { "bluetooth-pairing-request": "/pairing.html" }
+  ]
+}
